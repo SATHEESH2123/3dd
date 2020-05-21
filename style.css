@@ -10,8 +10,8 @@ section
 }
 video
 {
-    object-fit: CENTER;
-    width: center;
+    object-fit: center;
+    width: 100%;
 }
 h1
 {
